@@ -1,1 +1,3 @@
 contains all codes based on decision tree and random forest algorithm.
+
+1. for code - decision_tree_learning.ipynb - please go through the references mentioned in the code.
