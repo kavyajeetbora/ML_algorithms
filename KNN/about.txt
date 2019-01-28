@@ -1,0 +1,5 @@
+This folder contains code written for the KNN (K-Nearest Neighbourhood) classification algorithm
+
+References -
+1. Udemy - AZ machine learning
+2. 
